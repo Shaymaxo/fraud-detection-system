@@ -102,17 +102,4 @@ This technique is used by:
 - Visualization dashboards
 ```
 
-**3. `requirements.txt`** (dependencies)
-```
-pandas>=1.3.0
-numpy>=1.21.0
-scipy>=1.7.0
-```
 
-**4. `.gitignore`** (don't upload these)
-```
-__pycache__/
-*.pyc
-*.db
-.DS_Store
-.venv/
